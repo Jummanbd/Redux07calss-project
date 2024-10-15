@@ -1,0 +1,32 @@
+{
+  "jobs": [
+    {
+      "title": "Social Media Manager",
+      "type": "Full Time",
+      "salary": "50",
+      "deadline": "2024-07-20",
+      "id": 5
+    },
+    {
+      "title": "MERN Stack Developer",
+      "type": "Internship",
+      "salary": "210",
+      "deadline": "2024-07-12",
+      "id": 6
+    },
+    {
+      "title": "DevOps Engineer",
+      "type": "Internship",
+      "salary": "20000",
+      "deadline": "2024-09-18",
+      "id": 7
+    },
+    {
+      "title": "DevOps Engineer",
+      "type": "Remote",
+      "salary": "15200",
+      "deadline": "2024-10-16",
+      "id": 8
+    }
+  ]
+}
